@@ -79,15 +79,6 @@ The project is tested manually. Run `python main_menu.py` and try the cases belo
 | 8 | Main menu | Choice `9` or `abc` | `Invalid Response`, menu shown again |
 | 9 | Main menu | Choice `3` | `Have a Nice Day!!!` and the program ends |
 
-## Screenshots
-
-_Add screenshots of the main menu, a calculation, and each converter here._
-
-```
-![Main menu](screenshots/main_menu.png)
-![BMI result](screenshots/bmi.png)
-```
-
 ## Known Limitations and Future Work
 
 - Non-numeric input inside the calculator and converters (for example typing letters for height) is not yet validated.
@@ -97,6 +88,6 @@ _Add screenshots of the main menu, a calculation, and each converter here._
 
 ## Author
 
-**Name:** _your name_
-**Registration No.:** _your registration number_
+**Name:** Shiven Vats
+**Registration No.:** 26BAI10315
 **GitHub:** [shivenvats](https://github.com/shivenvats)
